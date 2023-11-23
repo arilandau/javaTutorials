@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# Settings files 
+*.prefs
+
+# Class path
+.classpath
+
+# Project
+.project
+
 # Log file
 *.log
 
