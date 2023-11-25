@@ -1,6 +1,6 @@
 package langaugeBasics;
 
-public class QuestionsAndExercises
+public class QuestionsAndExercises1
 {
 	public static void main( String[] args )
 	{
